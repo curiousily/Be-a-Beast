@@ -1,4 +1,5 @@
-1.tldr.md
+1.intro.md
 2.training.md
 3.diet.md
 4.consistency.md
+5.conclusion.md
