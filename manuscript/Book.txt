@@ -1,1 +1,4 @@
 1.tldr.md
+2.training.md
+3.diet.md
+4.consistency.md
